@@ -31,4 +31,10 @@ def usernp():
 
 usernp()
 
+print("User name is usermind")
+print("password is mypasswd")
+
+
+
+
 
