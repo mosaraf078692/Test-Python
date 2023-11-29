@@ -25,3 +25,10 @@ while count > 0:
 print ("The reversed string using a while loop is : ",reverse_String)# reversed string  
 
 
+def usernp():
+    print("my user is Hosaraf")
+    print("my password is msdfd934")
+
+usernp()
+
+
